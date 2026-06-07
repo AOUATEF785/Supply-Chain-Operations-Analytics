@@ -14,7 +14,7 @@ An end-to-end data analytics solution that processes enterprise supply chain dat
 * **Source Dataset:** DataCo Supply Chain Dataset
 
 ## Project Dashboard Preview
-![Executive Dashboard Overview](dashboard_overview.png)
+![Executive Dashboard Overview](ANALYSE ABC & OPTIMISATION D'ENTREPOT.png)
 
 ## How to Run the Project
 1. Clone the repository: `git clone https://github.com/AOUATEF785/Supply-Chain-Operations-Analytics.git`
