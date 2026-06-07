@@ -44,7 +44,7 @@ Structure : Répartition sectorielle du Chiffre d'Affaires selon les types de li
 
 Insight Business : Permet d'analyser les préférences de transport des clients. Si le mode Standard domine largement, cela montre que les clients privilégient le coût au délai, ce qui donne une marge de manœuvre pour réorganiser les flux face au taux de retard de 55%.
 
-📊 4. L'Histogramme de l'Analyse ABC : Optimisation des Stocks (Loi de Pareto)
+4. L'Histogramme de l'Analyse ABC : Optimisation des Stocks (Loi de Pareto)
 Structure : Trois colonnes distinctes basées sur le principe des 80/20. L'axe Y affiche le nombre exact de références produits (Count/Nombre de Sales).
 
 Insight Business :
